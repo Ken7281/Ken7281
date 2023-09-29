@@ -9,7 +9,7 @@
 - <b>Active Directory</b>
   - [Installing Active Directory]()
   - [Creating Administravive Users]()
-  - [Joining The Client To The Domain]()
+  - [Joining The Client To The Domain](https://github.com/Ken7281/Joining-The-Client-To-The-Domain/blob/main/README.md)
 <h2>🤳Connect with me:</h2>
 
 Email: Kj_moss@hotmail.com
